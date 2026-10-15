@@ -2,7 +2,8 @@ This repository contains the data and MATLAB code needed to reproduce the
 analysis and figures in the manuscript: 
 
 "Collapse and recovery of decision-making in Antarctic governance"
-Bode M, Botelho LL, Yaryab P, Liggett D.
+
+By: Bode M, Botelho LL, Yaryab P, Liggett D.
 
 Running one script rebuilds everything from the raw data.
 
