@@ -1,6 +1,3 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/ed83c06a-524b-4343-817d-7d4e7b6f1912" />Antarctic Treaty consultative meetings: Measures, co-authorship networks and a consensus model
-==================================================================================
-
 This repository contains the data and MATLAB code needed to reproduce the
 analysis and figures in the manuscript: 
 
@@ -89,17 +86,12 @@ if the best fit is on the edge of the parameter grid.
 
 
 LICENCE
-This work is licensed under the Creative Commons Attribution 4.0
-International License (CC BY 4.0). You are free to share and adapt the code
-and data for any purpose, including commercially, as long as you give
-appropriate credit, link to the licence, and indicate if changes were made.
-To credit this work, please cite the paper listed at the top of this file.
 
-Full licence text: https://creativecommons.org/licenses/by/4.0/
+See License file. 
 
-slanCM.m and slanCM_Data.mat are by Zhaoxu Liu and are not covered by this
-licence. They are distributed under their own licence from the MATLAB File
-Exchange.
+Note that: slanCM.m and slanCM_Data.mat are by Zhaoxu Liu and are not 
+covered by this licence. They are distributed under their own licence 
+from the MATLAB File Exchange.
 
 CONTACT
 Michael Bode
